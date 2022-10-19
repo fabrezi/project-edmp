@@ -1,0 +1,4 @@
+exports.acceptableExtensions = [
+  ".png",
+  ".jpg"
+]
