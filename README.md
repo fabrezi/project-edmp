@@ -1,6 +1,6 @@
-# Enterprise Data Marketplace Backend
+# Tajiuna Garage
 
-Enterprise Data Marketplace Backend provides the backing APIs used by the [Enterprise Data Marketplace](https://github.com/Toyota-Motor-North-America/edmp-enterprise-data-marketplace) project.
+Hey Sexy!!
 
 ## Project setup
 ```
